@@ -16,3 +16,5 @@ adjustment and consequent omission from the statistical model. In addition, we d
 consumption of five or more prescribed medications in a 90-days period as polypharmacy.
 
 The code for the simulation for can be used and edited based on different assumptions and parameters.
+
+<img width="1071" alt="results" src="https://user-images.githubusercontent.com/44569628/167868026-6eb7363f-b1dd-47e7-95f8-e5f66547d87c.png">

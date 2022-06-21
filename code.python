@@ -23,7 +23,7 @@ import statsmodels.formula.api as smf
     c0 = logit(0.17) # Polypharmacy
     b0 = logit(.002) # RTC
 # Parameters for the ZK relationship
-    a1 = np.log(0.8)
+    a1 = np.log(1.2)
     a2 = np.log(1.8)
     a3 = np.log(1.2)
 # Parameters for the XKZ relationship

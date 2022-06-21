@@ -14,7 +14,7 @@ set obs `obs'
     scalar c0 = logit(0.17) // Polypharmacy:17%
     scalar b0 = logit(.002) // RTC 0.2%
 * Parameters for the ZK relationship
-    scalar a1 = log(0.8) // Age
+    scalar a1 = log(1.2) // Age
     scalar a2 = log(1.8) // Sex
     scalar a3 = log(1.2) // Area
 * Parameters for the XKZ relationship

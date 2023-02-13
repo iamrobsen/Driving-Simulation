@@ -1,5 +1,4 @@
-# sim_unmeasured_confounding
-Code for the simulation of low driving mileage bias: 
+Simulation of unmeasured confounding
 
 Summary:
 Probabilistic sensitivity analysis using Monte Carlo simulations (MCS) has become an increasingly valuable tool to assess unmeasured confounding. 
@@ -15,3 +14,5 @@ adults. The term unmeasured confounding is used to refer to confounding due to l
 adjustment and consequent omission from the statistical model. In addition, we define concurrent
 consumption of five or more prescribed medications in a 90-days period as polypharmacy.
 The code for the simulation can be used and edited based on different assumptions and parameters.
+
+The code is available in Stata and Python.

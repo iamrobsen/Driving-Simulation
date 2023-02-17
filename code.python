@@ -1,3 +1,4 @@
+```
 import numpy as np
 import pandas as pd
 from scipy import stats
@@ -76,3 +77,5 @@ z = (b1-0)/se_b1
 p = stats.norm.cdf(-abs(z))*2
 power = np.sum(p<.05)/nsim
 print("Simulated power (%) = " , power*100)
+
+```
